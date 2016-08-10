@@ -1,0 +1,3 @@
+rootProject.name = 'lala_react_native'
+
+include ':app'
